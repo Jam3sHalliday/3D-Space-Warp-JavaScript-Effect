@@ -1,0 +1,16 @@
+body
+{
+    width: 100vh;
+    height: 100vh;
+    margin: 0;
+    background: #000;
+    /* hidden overflow to remove the scroll bar */
+    overflow: hidden;
+}
+
+.content
+{
+    text-align: center;
+    z-index: 1000;
+    color: #fff;
+}
